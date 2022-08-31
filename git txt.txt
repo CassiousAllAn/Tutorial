@@ -1,7 +1,12 @@
 git add "o nome do arquivo" = para adicionar
 
-git . = para adicionar varios
+git add. = para adicionar varios
 
 git status = para ver os arquivos e status
 
-git commit "commit inicial" 
+git commit -m "commit inicial" 
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+git push
+git remote add origin "address site"
