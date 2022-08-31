@@ -1,0 +1,7 @@
+git add "o nome do arquivo" = para adicionar
+
+git . = para adicionar varios
+
+git status = para ver os arquivos e status
+
+git commit "commit inicial" 
